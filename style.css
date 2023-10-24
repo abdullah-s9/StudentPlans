@@ -1,0 +1,98 @@
+        
+      
+
+.k1{
+    font-size: 28px;
+    
+}
+.k2{
+    
+     font-size: 16px;
+}
+
+button{
+      font-size: 20px;
+}
+
+td {
+            border: 1px solid black;
+            padding: 7px;
+            margin: 7px;
+            color: black;
+            text-align:center ;
+            font-size: 18px
+                
+                
+            }
+
+tr {
+    
+    text-align:center ;
+    Vertical-align: top;
+    
+}
+
+
+            table{
+             border: 1px solid black;
+             border-collapse: collapse;
+             padding: 17px;
+             color: black;
+             text-align:center ;
+             width:60%; height:100px;
+             margin: auto;
+            }
+            
+            
+.light {
+background: LightSteelBlue
+}
+
+
+body {
+  background-image: url('non.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+    
+}
+
+.b{
+    background-image:url(hhh.jpg) /**   خلفية صورة
+*/
+}
+
+
+.c{
+    background-color:hsla(180,60%,20%,0.5);     /** تيفاتني شفاف
+    */
+}
+
+
+.d{
+    background-color:hsla(40,100%,50%,0.5);  /** لون اصفر لـ او  و لعدد الساعات  
+*/
+}
+
+
+.f{
+    background-color:hsla(340,100%,50%,0.4); /** بنفسجي للمواد المتطلبة
+*/
+}
+
+
+
+td {
+
+    border: 0.5px solid black;
+    border-collapse: collapse;
+    padding: 7px;
+    margin: 7px;
+    color: black;
+    font-size: 18px;
+}
+
+
+
+
+
